@@ -15,10 +15,10 @@ main:
   #   url: /talks/    
 
   - title: "Projects"
-    url: /teaching/    
+    url: /projects/    
     
   - title: "For Fun"
-    url: /portfolio/
+    url: /forfun/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
