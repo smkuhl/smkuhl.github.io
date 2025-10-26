@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "allen_institute_for_immunology_logo.jpg"
   name             : "Sydney Kuhl"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Researcher at Allen Insititute for Immunology"
   location         : "Seattle, WA"
   employer         : "Allen Institute"
