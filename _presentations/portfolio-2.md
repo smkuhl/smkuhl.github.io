@@ -5,3 +5,6 @@ excerpt: "Presented poster at *Allen Institute, Data-Driven Discovery: AI and Mo
 collection: portfolio
 ---
 
+<embed src="/images/D3_Sept_Poster.pdf" type="application/pdf" width="100%" height="600px" />
+
+[View my poster (PDF)](/images/D3_Sept_Poster.pdf)
