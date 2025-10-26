@@ -6,6 +6,6 @@ collection: portfolio
 ---
 
 
-<embed src="images/RECOMB2025Poster.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/images/RECOMB2025Poster.pdf" type="application/pdf" width="100%" height="600px" />
 
-[View my poster (PDF)](images/RECOMB2025Poster.pdf)
+[View my poster (PDF)](/images/RECOMB2025Poster.pdf)
