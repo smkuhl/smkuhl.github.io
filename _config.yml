@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Sydney Kuhl"
 title_separator          : "-"
 name                     : &name "Sydney Kuhl"
@@ -23,9 +23,9 @@ repository               : "smkuhl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "allen_institute_for_immunology_logo.jpg"
   name             : "Sydney Kuhl"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Researcher at Allen Insititute for Immunology"
   location         : "Seattle, WA"
   employer         : "Allen Institute"
