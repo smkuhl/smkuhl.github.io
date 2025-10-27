@@ -1,6 +1,6 @@
 ---
 title: "AI Alignment Red Teaming"
-excerpt: "Creates a more robust form of testing the security of harmless large language models. <br/><img src='/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f-2880x1620.png'  width='50%'/>"
+excerpt: "Creates a more robust form of testing the security of harmless large language models. <br/><img src='/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f-2880x1620.png'  width='50%' style='margin-top: 20px;'/>"
 collection: portfolio
 ---
 

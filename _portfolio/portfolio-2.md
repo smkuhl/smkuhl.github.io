@@ -1,6 +1,6 @@
 ---
 title: "Music Recommendation Algorithm"
-excerpt: "Generates personalized classical music recommendations by identifying pieces with similar characteristics using content-based and collaborative filtering. <br/><img src='/images/4-chief-sealth-side-by-side.jpg'  width='50%'/>"
+excerpt: "Generates personalized classical music recommendations by identifying pieces with similar characteristics using content-based and collaborative filtering. <br/><img src='/images/4-chief-sealth-side-by-side.jpg'  width='50%' style='margin-top: 20px;'/>"
 collection: portfolio
 ---
 
