@@ -5,8 +5,7 @@ excerpt: "Presented talk and poster at *Research in Computational and Molecular 
 
 collection: portfolio
 ---
-
-
-<embed src="/images/RECOMB2025Poster.pdf" type="application/pdf" width="100%" height="600px" />
-
 [View my poster (PDF)](/images/RECOMB2025Poster.pdf)
+![Poster preview](/images/RECOMB2025Poster.jpg)
+
+
