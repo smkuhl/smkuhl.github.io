@@ -229,7 +229,7 @@ collections:
     permalink: /:collection/:path/
   presentations:
     output: true
-    permalink: /:collection/:path/
+    permalink: /presentations/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -282,6 +282,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
