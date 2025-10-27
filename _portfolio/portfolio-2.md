@@ -1,6 +1,6 @@
 ---
 title: "Music Recommendation Algorithm"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/4-chief-sealth-side-by-side.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/4-chief-sealth-side-by-side.jpg'  width='50%'/>"
 collection: portfolio
 ---
 

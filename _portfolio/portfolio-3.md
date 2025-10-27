@@ -1,6 +1,6 @@
 ---
 title: "AI Alignment Red Teaming"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f-2880x1620.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f-2880x1620.png'  width='50%'/>"
 collection: portfolio
 ---
 
