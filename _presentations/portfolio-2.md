@@ -5,7 +5,7 @@ excerpt: "Presented poster at *Allen Institute, Data-Driven Discovery: AI and Mo
 
 collection: presentations
 ---
-Presented poster at *Allen Institute, Data-Driven Discovery: AI and Modeling in Biology Workshop 2024
+Presented poster at *Allen Institute, Data-Driven Discovery: AI and Modeling in Biology Workshop 2024*
 
 
 [View my poster (PDF)](/images/D3_Sept_Poster.pdf)
