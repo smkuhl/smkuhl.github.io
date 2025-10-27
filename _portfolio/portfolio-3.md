@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/d20
 collection: portfolio
 ---
 
-![Constitutional AI](/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f.jpg)
+![Constitutional AI](/images/d20d4e15caa35ee126705d33ee5bdd1ccbe7ff4f.png)
 [Photo: Anthropic](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input)
 
 This project leverages Open AI's API and the few-shot prompting technique to develope a dual-agent framework designed to evalutate and strengthen AI safety. The system consists of two agents: a main agent, trained to answer standard questions, and an adversarial agent, which attempts to prompt the main agent into violating safety protocols. By simulating adversarial prompts, the framework exposes vulnerabilities in model behavior.
