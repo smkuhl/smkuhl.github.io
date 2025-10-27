@@ -1,9 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Generative AI for Music"
+excerpt: "RNN model that composes music based on Bach chorale training data<br/><img src='/images/Bach-GettyImages-919644932.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Johann Sebastian Bach](/images/Bach-GettyImages-919644932.jpg)
+Photo: Fine Art Images/Heritage Images/Getty Images
 
-![Poster preview](/images/D3_Sept_Poster.jpg)
+This project implements the Recurrent Neural Network architecture to generate original music based on Bach chorale training data. Bach chorales are four part works that are relatively short and simple as they generally consist of one or two musical phrases. 
