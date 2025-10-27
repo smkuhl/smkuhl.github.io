@@ -1,15 +1,30 @@
 {
-    "name": "ACADEMIC PAGES",
-    "dockerComposeFile": "../docker-compose.yaml",
-    "service": "jekyll-site",
-    "remoteEnv": {
-        "VSCODE_SERVER_DIR": "/home/vscode/.vscode-server"
-    },
-    "runArgs": [
-        "--user",
-        "1000:1000"
-    ],
-    "workspaceFolder": "/usr/src/app",
-    "remoteUser": "vscode",
-    "forwardPorts": [4000] // Add port forwarding
+  "name": "smkuhl.github.io - Jekyll",
+  "build": {
+    "dockerfile": "../Dockerfile",
+    "context": ".."
+  },
+  "workspaceFolder": "/usr/src/app",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/usr/src/app,type=bind,consistency=cached",
+  "runArgs": ["--init"],
+  "forwardPorts": [4000],
+  "postCreateCommand": "bash -lc 'gem install bundler || true && bundle install || true'",
+  "remoteUser": "vscode",
+  "containerEnv": {
+    "JEKYLL_ENV": "development"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "castwide.solargraph",
+        "rebornix.ruby",
+        "bungcip.better-toml",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.vscode-dev-containers"
+      ],
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      }
+    }
+  }
 }
