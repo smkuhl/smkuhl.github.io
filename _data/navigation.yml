@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "For Fun"
-    url: /forfun/
+  # - title: "For Fun"
+  #   url: /forfun/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
